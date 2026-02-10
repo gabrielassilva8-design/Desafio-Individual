@@ -1,0 +1,35 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.first-card{
+    width: 310px;
+    height: 600px;
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 3% 0 0 3%;
+
+}
+
+.second-card{
+     width: 310px;
+    height: 600px;
+    background-color: hsl(184, 100%, 22%);
+    border-radius: 0 3% 0 3%;
+
+}
+
+.third-card{
+     width: 310px;
+    height: 600px;
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 3% 0 3%;
+}
